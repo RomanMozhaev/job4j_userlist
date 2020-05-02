@@ -1,0 +1,1 @@
+CREATE TABLE users (user_id serial primary key, user_name varchar(100), user_email varchar(500), create_time bigint);

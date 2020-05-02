@@ -1,0 +1,1 @@
+ALTER TABLE users ADD user_photo varchar(1000);
