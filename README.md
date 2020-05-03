@@ -20,4 +20,4 @@ The following technologies were used:
 7) Ajax, JSON
 8) TagLibs
 9) JavaScript
-10)JUnit, PowerMock.
+10) JUnit, PowerMock
